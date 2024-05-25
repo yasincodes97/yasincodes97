@@ -1,16 +1,16 @@
-[![MasterHead](https://stock.adobe.com/de/search?k=technology+banner&asset_id=733879092)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)]
+
 <h1 align="center">Hi 👋, I'm Yasin Kapisiz</h1>
 <h3 align="center">a passionate developer from Germany</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966")
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasincodes97&label=Profile%20views&color=0e75b6&style=flat" alt="yasincodes97" /> </p>
 
-- 🔭 I’m currently working on **Own portfolio with some extras.**
+- 🔭 I’m currently working on **my own portfolio**
 
 - 🌱 I’m currently learning **SAP/ABAP, JavaScript, Flutter**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **yasink.97@outlook.de**
 
