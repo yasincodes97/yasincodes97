@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)] (https://github.com/yasincodes97)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)](https://github.com/yasincodes97)
 
 <h1 align="center">Hi 👋, I'm Yasin Kapisiz</h1>
 <h3 align="center">a passionate developer from Germany</h3>
