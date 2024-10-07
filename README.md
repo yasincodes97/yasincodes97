@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasincodes97&label=Profile%20views&color=0e75b6&style=flat" alt="yasincodes97" /> </p>
 
-- 🔭 I’m currently working on **a website made for my girlfriend**
+- 🔭 I’m currently working on **myself by improving daily.**
 
 - 🌱 I’m currently learning **SAP/ABAP, JavaScript, Flutter**
 
