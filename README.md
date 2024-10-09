@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ***myself by improving daily.***
 - 
-- 🌱 I’m currently learning ***SAP/ABAP, JavaScript, Flutter***
+- 🌱 I’m currently learning ***JavaScript, TypeScript, React***
 
 - 💬 Ask me about ***anything***
 
