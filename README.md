@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yasin Kapisiz</h1>
+<h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">a passionate developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1***zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
@@ -10,13 +10,12 @@
 
 - 💬 Ask me about ***anything***
 
-- 📫 How to reach me ***yasink.97@outlook.de***
+- 📫 How to reach me ***yasinkapi.97@gmail.com***
 
 - ⚡ Fun fact ***I´m open for new connections. ✌🏻***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yasin-kapisiz-a9b75726a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin kapisiz" height="30" width="40" /></a>
 <a href="https://instagram.com/yasin.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasin.codes" height="30" width="40" /></a> 
 </p>
 
