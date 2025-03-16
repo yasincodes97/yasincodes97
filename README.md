@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://instagram.com/yasin.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasin.codes" height="30" width="40" /></a> 
 </p>
-<a href="https://solo.to/yasincodes" target="blank"><img align="center" src="" alt="solo.to" height="30" width="40" /></a> 
+<a href="https://solo.to/yasincodes" target="blank"><img align="center" src="https://cdn.solo.to/images/webclip.png" alt="solo.to" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
