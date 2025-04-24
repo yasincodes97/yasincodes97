@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasincodes97&label=Profile%20views&color=0e75b6&style=flat" alt="yasincodes97" /> </p>
 
-- 🔭 I’m currently working on a project using HTTP and SSH protocols******
+- 🔭 I’m currently working on a project using ***HTTP and SSH protocols***
 - 🌱 I’m currently learning ***Linux, Bash and everything about it***
 
 - 💬 Ask me about ***anything***
