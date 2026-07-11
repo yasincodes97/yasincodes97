@@ -19,22 +19,20 @@ I'm a Security Consultant / Security Engineer specializing in security automatio
 
 ### Core Expertise
 
-- **Threat Detection & Hunting** — KQL queries and Advanced Hunting in Microsoft Sentinel and Defender XDR
-- **Security Automation** — Azure Logic Apps for automated ticketing, alerting, and SOAR-style workflows
-- **Identity & Access** — Entra ID governance and access review processes
-- **Scripting** — Python and Bash for automation tooling and API integrations
+- **Threat Detection & Hunting** - KQL queries and Advanced Hunting in Microsoft Sentinel and Defender XDR
+- **Security Automation** - Azure Logic Apps for automated ticketing, alerting, and SOAR-style workflows
+- **Identity & Access** - Entra ID governance and access review processes
+- **Scripting** - Python and Bash for automation tooling and API integrations
 
 ### Featured Project
 
-**[azure-security-automation-examples](https://github.com/yasincodes97/azure-security-automation-examples)** — A collection of example KQL queries, Azure Logic App templates, and Python scripts demonstrating security automation patterns for threat detection and vulnerability management.
+**[azure-security-automation-examples](https://github.com/yasincodes97/azure-security-automation-examples)** - A collection of example KQL queries, Azure Logic App templates, and Python scripts demonstrating security automation patterns for threat detection and vulnerability management.
 
 ### Certifications
 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- GitHub Foundations
-- Microsoft Applied Skills: Get Started with Identities using Microsoft Entra
-- Microsoft Applied Skills: Create an AI Agent
+- GitHub Foundations (GH-900)
 
 ---
 
