@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:yasinkapi.97@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/yasinkapisiz/">LinkedIn</a>
   <a href="https://github.com/yasincodes97/azure-security-automation-examples">Portfolio</a>
 </p>
 
